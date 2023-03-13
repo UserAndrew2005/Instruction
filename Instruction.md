@@ -43,6 +43,8 @@
 * ///
 * ///
 
+* Добавить изображение - можно с помощью конструкции ![Текст в случае ошибки](Адрес изображения).
+
 ![Удачи!](https://i.siteapi.org/lCId0lO-qQ0TIbfhCS4JF7XiK9o=/fit-in/330x/top/s.siteapi.org/a7fedb59d9e86d6.ru/img/45cbbqc1vgqo8csgok0s4co4okgkc4)
 
 [*Больше информации можно получить здесь*](https://gbcdn.mrgcdn.ru/uploads/asset/3937510/attachment/187904bc7fa424abc113f5dda8b497ff.pdf)
